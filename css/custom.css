@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Chiron+GoRound+TC:wght@200..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
+
+body {
+  line-height: 1.5;
+  font-family: "Roboto", "Chiron GoRound TC", sans-serif;
+  letter-spacing: 1.5px;
+}
+
+p {
+  font-weight: 400;
+}
+
+h1 {
+  font-weight: 500 !important;
+}
+
+.welcome-thumb--image img {
+  object-position: bottom;
+  border-radius: 0.5rem;
+}
